@@ -1,3 +1,3 @@
-Made just for myself, to automize exes solving in scheduling theory
+Made just for myself, to automize exercises solving in scheduling theory
 
-Soon Gantt's diagram drawing will be added
+Soon Gantt's diagram drawing will be added(or not:))

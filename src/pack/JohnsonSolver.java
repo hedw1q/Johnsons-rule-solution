@@ -112,7 +112,7 @@ public class JohnsonSolver {
         System.out.println("Load factor=" + loadFactor);
         return detailList;
     }
-    
+
     public static void main(String[] args) {
         JohnsonSolver task1 = new JohnsonSolver();
         task1.getOrder(new ArrayList<Detail>());
